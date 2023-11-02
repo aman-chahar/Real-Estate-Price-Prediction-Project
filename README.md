@@ -29,7 +29,6 @@ Here's a breakdown of the major components and steps in this project:
 5. **Streamlit Web App Development**:
    - A Streamlit web application is created to provide an interactive interface for users to predict house prices.
    - Users can input location, total square feet, number of bedrooms, and number of bathrooms to get a price prediction.
-   - The web app also includes data exploration visualizations like scatter plots and histograms.
 
 6. **Model Deployment**:
    - The trained Linear Regression model is saved to a pickle file for use in the Streamlit app.
